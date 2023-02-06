@@ -1,0 +1,23 @@
+{
+  "name": "walter_nodejsapp",
+  "version": "0.0.1",
+  "description": "Starting template to build a cool portfolio website to display my resume and projects worked on!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walterkarabin/walter_portfolio.git"
+  },
+  "author": "walterkarabin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walterkarabin/walter_portfolio/issues"
+  },
+  "homepage": "https://github.com/walterkarabin/walter_portfolio#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
