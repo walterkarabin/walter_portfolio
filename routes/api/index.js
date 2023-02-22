@@ -4,6 +4,6 @@ var router = express.Router();
 
 // todo add in error info
 
-router.use("/", require("./users"));
+router.use("/users", require("./users"));
 
 module.exports = router;
